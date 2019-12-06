@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html {font-family: "Verdana"; color: white; background-color: #232323}
 
 .topnav {
@@ -22,4 +23,77 @@ color: white;
 .topnav a.active {
 background-color: #00008B;
 color: white;
+=======
+html {font-family: "Verdana"}
+body {
+  padding: 0;
+  margin: 0;
+  color: #fff
+}
+
+
+
+.my-navbar {
+
+      display: flex;
+      justify-content: center;
+      background-color: #000;
+}
+.my-nav-content {
+    padding: 0;
+    color: white;
+    flex-direction: row;
+    justify-content: center;
+    display: flex;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%;
+
+}
+
+.my-navbar a {
+      margin: 0;
+      justify-content: center;
+      color: #fff;
+      text-decoration: none;
+      padding: 15px;
+      text-align: center;
+      align-items: center;
+      align-content: center;
+      display: flex;
+      font-size: 15px;
+}
+.my-navbar li {
+  margin-left: 15px;
+  list-style: none;
+
+}
+
+img {
+max-width: 100%;
+max-height: 100%
+}
+
+.main-content {
+  background-color: #000;
+  display: flex;
+  width: 100%
+}
+
+.image-section {
+  width: 50%;
+  background-image: url(guitar.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text-section {
+  padding: 10px;
+  width: 50%
+>>>>>>> 737203ba2bfdd8d356d90443d8c52c4a72ffe099
 }
