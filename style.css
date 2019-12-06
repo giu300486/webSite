@@ -1,0 +1,25 @@
+html {font-family: "Verdana"; color: white; background-color: #232323}
+
+.topnav {
+background-color: #000000;
+overflow: hidden;
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+.topnav a {
+
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+.topnav a:hover {
+background-color: #191970;
+color: white;
+}
+.topnav a.active {
+background-color: #00008B;
+color: white;
+}
