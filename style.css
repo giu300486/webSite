@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 html {font-family: "Verdana"; color: white; background-color: #232323}
 
 .topnav {
@@ -23,7 +23,6 @@ color: white;
 .topnav a.active {
 background-color: #00008B;
 color: white;
-=======
 html {font-family: "Verdana"}
 body {
   padding: 0;
@@ -95,5 +94,4 @@ max-height: 100%
 .text-section {
   padding: 10px;
   width: 50%
->>>>>>> 737203ba2bfdd8d356d90443d8c52c4a72ffe099
 }
